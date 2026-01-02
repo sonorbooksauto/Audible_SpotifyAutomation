@@ -1,1 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>オーディオライブラリー</title>
+    <link>https://github.com/sonorbooksauto/Audible_SpotifyAutomation</link>
+    <description>不朽の名作オーディオブックを、要点だけに絞った短いあらすじで紹介します。物語の魅力やテーマ、読む（聴く）べき理由を、ネタバレ控えめでわかりやすくお届けします。</description>
+    <language>ja</language>
+
+    <!-- iTunes-specific metadata -->
+    <itunes:author>Sonorbooks</itunes:author>
+    <itunes:summary>不朽の名作オーディオブックを、要点だけに絞った短いあらすじで紹介します。物語の魅力やテーマ、読む（聴く）べき理由を、ネタバレ控えめでわかりやすくお届けします。</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Sonorbooks</itunes:name>
+      <itunes:email>sonorbooksauto@gmail.com</itunes:email>
+    </itunes:owner>
+
+    <itunes:image href="https://sonorbooksauto.github.io/Audible_SpotifyAutomation/audio-library-jp/cover.png" />
+
+    <atom:link href="https://sonorbooksauto.github.io/Audible_SpotifyAutomation/audio-library-jp/rss.xml" rel="self" type="application/rss+xml" />
+
+    <!-- Dummy item (remove once n8n adds real episodes) -->
+    <item>
+      <title>テスト回</title>
+      <description>フィード確認用のテストです。自動化が動き始めたら削除できます。</description>
+      <pubDate>Thu, 02 Jan 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">sonorbooks-ja-test-001</guid>
+    </item>
+
+  </channel>
+</rss>
 
