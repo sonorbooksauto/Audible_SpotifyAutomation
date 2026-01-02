@@ -1,1 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Classiques en Voix FR</title>
+    <link>https://github.com/sonorbooksauto/Audible_SpotifyAutomation</link>
+    <description>Des synopsis courts et clairs des audiolivres cultes, avec peu de spoilers. Comprenez l’intrigue, les thèmes majeurs et pourquoi chaque œuvre est devenue un classique.</description>
+    <language>fr</language>
+
+    <!-- iTunes-specific metadata -->
+    <itunes:author>Sonorbooks</itunes:author>
+    <itunes:summary>Des synopsis courts et clairs des audiolivres cultes, avec peu de spoilers. Comprenez l’intrigue, les thèmes majeurs et pourquoi chaque œuvre est devenue un classique.</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Sonorbooks</itunes:name>
+      <itunes:email>sonorbooksauto@gmail.com</itunes:email>
+    </itunes:owner>
+
+    <itunes:image href="https://sonorbooksauto.github.io/Audible_SpotifyAutomation/classiques-en-voix-fr/cover.png" />
+
+    <atom:link href="https://sonorbooksauto.github.io/Audible_SpotifyAutomation/classiques-en-voix-fr/rss.xml" rel="self" type="application/rss+xml" />
+
+    <!-- Dummy item (remove once n8n adds real episodes) -->
+    <item>
+      <title>Épisode de test</title>
+      <description>Vérification du flux. Vous pouvez supprimer cet épisode quand n8n publie de vrais épisodes.</description>
+      <pubDate>Thu, 02 Jan 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">sonorbooks-fr-test-001</guid>
+    </item>
+
+  </channel>
+</rss>
 
