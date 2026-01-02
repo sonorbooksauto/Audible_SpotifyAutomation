@@ -1,1 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hörwort DE</title>
+    <link>https://github.com/sonorbooksauto/Audible_SpotifyAutomation</link>
+    <description>Kurze, klare Zusammenfassungen legendärer Hörbücher – spoilerarm und auf den Punkt. Erfahre Handlung, Kernthemen und warum jedes Werk bis heute ein Klassiker ist.</description>
+    <language>de</language>
+
+    <!-- iTunes-specific metadata -->
+    <itunes:author>Sonorbooks</itunes:author>
+    <itunes:summary>Kurze, klare Zusammenfassungen legendärer Hörbücher – spoilerarm und auf den Punkt. Erfahre Handlung, Kernthemen und warum jedes Werk bis heute ein Klassiker ist.</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Sonorbooks</itunes:name>
+      <itunes:email>sonorbooksauto@gmail.com</itunes:email>
+    </itunes:owner>
+
+    <itunes:image href="https://sonorbooksauto.github.io/Audible_SpotifyAutomation/horwort-de/cover.png" />
+
+    <atom:link href="https://sonorbooksauto.github.io/Audible_SpotifyAutomation/horwort-de/rss.xml" rel="self" type="application/rss+xml" />
+
+    <!-- Dummy item (remove once n8n adds real episodes) -->
+    <item>
+      <title>Testfolge</title>
+      <description>Feed-Check. Diese Folge kannst du löschen, sobald n8n echte Episoden veröffentlicht.</description>
+      <pubDate>Thu, 02 Jan 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">sonorbooks-de-test-001</guid>
+    </item>
+
+  </channel>
+</rss>
 
