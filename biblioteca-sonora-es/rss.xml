@@ -1,1 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biblioteca Sonora ES</title>
+    <link>https://github.com/sonorbooksauto/Audible_SpotifyAutomation</link>
+    <description>Sinopsis claras y rápidas de audiolibros míticos, sin vueltas y con pocos spoilers. Descubre de qué va cada obra, sus ideas clave y por qué sigue siendo un clásico.</description>
+    <language>es</language>
+
+    <!-- iTunes-specific metadata -->
+    <itunes:author>Sonorbooks</itunes:author>
+    <itunes:summary>Sinopsis claras y rápidas de audiolibros míticos, sin vueltas y con pocos spoilers. Descubre de qué va cada obra, sus ideas clave y por qué sigue siendo un clásico.</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Sonorbooks</itunes:name>
+      <itunes:email>sonorbooksauto@gmail.com</itunes:email>
+    </itunes:owner>
+
+    <itunes:image href="https://sonorbooksauto.github.io/Audible_SpotifyAutomation/biblioteca-sonora-es/cover.png" />
+
+    <atom:link href="https://sonorbooksauto.github.io/Audible_SpotifyAutomation/biblioteca-sonora-es/rss.xml" rel="self" type="application/rss+xml" />
+
+    <!-- Dummy item (remove once n8n adds real episodes) -->
+    <item>
+      <title>Episodio de prueba</title>
+      <description>Comprobación del feed. Puedes borrar este episodio cuando n8n publique episodios reales.</description>
+      <pubDate>Thu, 02 Jan 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">sonorbooks-es-test-001</guid>
+    </item>
+
+  </channel>
+</rss>
 
