@@ -21,15 +21,6 @@
 
     <atom:link href="https://sonorbooksauto.github.io/Audible_SpotifyAutomation/audio-library-en/rss.xml" rel="self" type="application/rss+xml" />
 
-    
-
-<item>
-  <title>Audiobook: Bedtime Stories for Cynics - Dave Hill Audiobook</title>
-  <description>https://decisioninformada.org/</description>
-  <pubDate>Sun, 04 Jan 2026 21:07:09 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_6g7oEmehREmayhW9XFufLdiYnDa1RIc" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1767560829940</guid>
-</item>
 
 </channel>
 </rss>
