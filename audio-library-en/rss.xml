@@ -21,60 +21,6 @@
 
     <atom:link href="https://sonorbooksauto.github.io/Audible_SpotifyAutomation/audio-library-en/rss.xml" rel="self" type="application/rss+xml" />
 
-    <!-- Dummy item (remove once n8n adds real episodes) -->
-    <item>
-      <title>Test episode</title>
-      <description>Feed check. This item can be removed once automation is live.</description>
-      <pubDate>Thu, 02 Jan 2026 12:00:00 GMT</pubDate>
-      <enclosure url="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" length="0" type="audio/mpeg" />
-      <guid isPermaLink="false">sonorbooks-en-test-001</guid>
-    </item>
-
-  
-<item>
-  <title>Audiolibro: Orgullo y prejuicio - Jane Austen Audiolibro</title>
-  <description>https://decisioninformada.org/</description>
-  <pubDate>Fri, 02 Jan 2026 21:10:20 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=null" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1767388220032</guid>
-</item>
-
-
-<item>
-  <title>Audiolibro: Cuentos locos para niños inteligentes - Jordi Sierra i Fabra Audiolibro</title>
-  <description>https://decisioninformada.org/</description>
-  <pubDate>Fri, 02 Jan 2026 23:18:28 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gt0lqIjghNWbKd_8MAxSZ1-sbbmx3rbS" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1767395908678</guid>
-</item>
-
-
-<item>
-  <title>Audiolibro: Orgullo y prejuicio - Jane Austen Audiolibro</title>
-  <description>https://decisioninformada.org/</description>
-  <itunes:image href="https://m.media-amazon.com/images/I/51rrD+UlqiL._SL500_.jpg" />
-  <pubDate>Sat, 03 Jan 2026 21:39:02 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FLF0I8uJ633tYiuPVTzmVfDssWfrkY5c" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1767476342496</guid>
-</item>
-
-
-<item>
-  <title>Audiolibro: Orgullo y prejuicio - Jane Austen Audiolibro</title>
-  <description>https://decisioninformada.org/</description>
-  <pubDate>Sat, 03 Jan 2026 21:44:40 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FLF0I8uJ633tYiuPVTzmVfDssWfrkY5c" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1767476680865</guid>
-</item>
-
-
-<item>
-  <title>Audiobook: Slash and Grab Horror of the 1980s - Adam Jortner Audiobook</title>
-  <description>https://decisioninformada.org/</description>
-  <pubDate>Sun, 04 Jan 2026 19:24:06 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1WX37kEuUnaHB94RJw_tWJG3rPpLBsGHL" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1767554646753</guid>
-</item>
-
+    
 </channel>
 </rss>
