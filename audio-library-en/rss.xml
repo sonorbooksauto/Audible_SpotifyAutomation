@@ -162,5 +162,15 @@
   <guid isPermaLink="false">1767636096282</guid>
 </item>
 
+
+<item>
+  <title>Audiobook: Jingle Bell Pop - John Seabrook Audiobook</title>
+  <description>https://decisioninformada.org/</description>
+  <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1i-RbnD_vHUR9ztHOOPLyZCYelhkdCohq" />
+  <pubDate>Mon, 05 Jan 2026 18:01:37 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1RGBnLYFw4rIFXwEb7Ep54QBu0llQOLL3" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1767636097433</guid>
+</item>
+
 </channel>
 </rss>
