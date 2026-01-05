@@ -30,6 +30,16 @@
       <guid isPermaLink="false">sonorbooks-fr-test-001</guid>
     </item>
 
-  </channel>
+  
+<item>
+  <title>Livre audio: Mon happy ending - Emma Landas Livre audio</title>
+  <description>https://decisioninformada.org/</description>
+  <itunes:image href="https://drive.google.com/uc?export=download&amp;id=14HAh__CGQyeCvttxNee9MX0_3QuDK3os" />
+  <pubDate>Mon, 05 Jan 2026 13:52:21 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UDoRNDgx03Z5R-WnaXId9W9YrwitOIn8" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1767621141450</guid>
+</item>
+
+</channel>
 </rss>
 
