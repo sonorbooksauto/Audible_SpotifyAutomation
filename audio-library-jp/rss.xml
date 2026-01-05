@@ -30,6 +30,16 @@
       <guid isPermaLink="false">sonorbooks-ja-test-001</guid>
     </item>
 
-  </channel>
+  
+<item>
+  <title>オーディオブック: 世界一清潔な空港の清掃人と日本一のごみ清掃員をめざす芸人が見つけた「ごみと掃除と幸せな人生」 - 新津 春子 オーディオブック</title>
+  <description>https://decisioninformada.org/</description>
+  <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1KarBQecj4vZ--2fkevOnf-BkWF57IOT0" />
+  <pubDate>Mon, 05 Jan 2026 13:53:10 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=12nzGjgzX59VgdGEa1h6gtV0tpQqcv3nR" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1767621190161</guid>
+</item>
+
+</channel>
 </rss>
 
