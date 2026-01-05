@@ -30,6 +30,16 @@
       <guid isPermaLink="false">sonorbooks-de-test-001</guid>
     </item>
 
-  </channel>
+  
+<item>
+  <title>Hörbuch: Stimmen der Vergangenheit - Markus Heitz Hörbuch</title>
+  <description>https://decisioninformada.org/</description>
+  <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1TK_tanEdwy5n1ArRx1dnR8JnUIT5G5ol" />
+  <pubDate>Mon, 05 Jan 2026 13:51:12 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1et-r0o_jkhXubI8Jstcz7vkfTkFtfJHQ" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1767621072980</guid>
+</item>
+
+</channel>
 </rss>
 
