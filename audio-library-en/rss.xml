@@ -112,5 +112,15 @@
   <guid isPermaLink="false">1767628909401</guid>
 </item>
 
+
+<item>
+  <title>Audiobook: Never Broken - Jewel Audiobook</title>
+  <description>https://decisioninformada.org/</description>
+  <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1L7soiFmur_Fsmf5y5spPM0kz47kTxriN" />
+  <pubDate>Mon, 05 Jan 2026 17:01:16 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1i4BHpbNUbxboMI6tfcKOcc-FLbrAaHAo" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1767632476994</guid>
+</item>
+
 </channel>
 </rss>
