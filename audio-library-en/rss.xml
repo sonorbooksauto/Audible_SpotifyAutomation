@@ -182,5 +182,15 @@
   <guid isPermaLink="false">1767639676683</guid>
 </item>
 
+
+<item>
+  <title>Audiobook: Divided Soul - David Ritz Audiobook</title>
+  <description>https://decisioninformada.org/</description>
+  <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1vV5ElFA9F1QUUZuNR-r3M4CGGMNqBS6k" />
+  <pubDate>Mon, 05 Jan 2026 19:01:17 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=109Ig1aCJp5x70qsA99XKXID6S8rOCNXG" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1767639677591</guid>
+</item>
+
 </channel>
 </rss>
