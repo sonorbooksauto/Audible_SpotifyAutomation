@@ -52,5 +52,15 @@
   <guid isPermaLink="false">1767620948254</guid>
 </item>
 
+
+<item>
+  <title>Audiobook: The Beatles - Hunter Davies Audiobook</title>
+  <description>https://decisioninformada.org/</description>
+  <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1KDDtDGzw8SUIKQqZGO-XW9M89Hxf2k1v" />
+  <pubDate>Mon, 05 Jan 2026 15:01:37 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=187qGuRzKxHVGRUreyrcdkF5ZgIqWXMyb" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1767625297485</guid>
+</item>
+
 </channel>
 </rss>
