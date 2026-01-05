@@ -22,17 +22,6 @@
     <atom:link href="https://sonorbooksauto.github.io/Audible_SpotifyAutomation/biblioteca-sonora-es/rss.xml" rel="self" type="application/rss+xml" />
 
 
-
-
-<item>
-  <title>Audiolibro: The Sandman - Neil Gaiman Audiolibro</title>
-  <description>https://decisioninformada.org/</description>
-  <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1AA9-pw2dA5sddlqJg0oHXaBUpE-SePeW" />
-  <pubDate>Mon, 05 Jan 2026 00:05:44 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=150uqi-NMVkdIpiw7LY1d5qnADG0YR2x0" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1767571544618</guid>
-</item>
-
 </channel>
 </rss>
 
