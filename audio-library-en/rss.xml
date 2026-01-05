@@ -22,5 +22,15 @@
     <atom:link href="https://sonorbooksauto.github.io/Audible_SpotifyAutomation/audio-library-en/rss.xml" rel="self" type="application/rss+xml" />
 
 
+
+<item>
+  <title>Audiobook: Slash and Grab Horror of the 1980s - Adam Jortner Audiobook</title>
+  <description>https://decisioninformada.org/</description>
+  <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1EtuMiRhz7jHBF1O9nuzL5DylmJ_1uR_J" />
+  <pubDate>Mon, 05 Jan 2026 13:49:06 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1WX37kEuUnaHB94RJw_tWJG3rPpLBsGHL" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1767620946667</guid>
+</item>
+
 </channel>
 </rss>
